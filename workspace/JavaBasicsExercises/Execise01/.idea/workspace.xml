@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfd54e19-ecfc-4592-b752-a62a833c118f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1huJcKkEi323EVN7K5bwVFtEIGM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager" selected="Application.BubbleSortTest">
+    <configuration name="BubbleSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gy.java.BubbleSortTest" />
+      <module name="Execise01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gy.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gy.java.HelloWorld" />
+      <module name="Execise01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gy.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="erfenchazhao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gy.java.erfenchazhao" />
+      <module name="Execise01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gy.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BubbleSortTest" />
+        <item itemvalue="Application.erfenchazhao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfd54e19-ecfc-4592-b752-a62a833c118f" name="Default Changelist" comment="" />
+      <created>1600855123379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600855123379</updated>
+      <workItem from="1600855128960" duration="2204000" />
+      <workItem from="1600858839392" duration="283000" />
+      <workItem from="1600859191265" duration="22000" />
+      <workItem from="1600860169486" duration="773000" />
+      <workItem from="1600860979506" duration="8000" />
+      <workItem from="1600861045632" duration="2053000" />
+      <workItem from="1601206837248" duration="3000" />
+      <workItem from="1601206944403" duration="182000" />
+      <workItem from="1601207467552" duration="1868000" />
+      <workItem from="1602140558350" duration="426000" />
+      <workItem from="1602141255897" duration="5353000" />
+      <workItem from="1604125804939" duration="75000" />
+      <workItem from="1604125923237" duration="166000" />
+      <workItem from="1606825121852" duration="51000" />
+      <workItem from="1607082054268" duration="422000" />
+      <workItem from="1608021937792" duration="1851000" />
+      <workItem from="1608023842019" duration="651000" />
+      <workItem from="1608024522046" duration="239000" />
+      <workItem from="1608024798343" duration="566000" />
+      <workItem from="1608025398888" duration="74000" />
+      <workItem from="1608025501212" duration="606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="337" y="85" key="#Notifications" timestamp="1608025690487">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="337" y="85" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1608025690487" />
+    <state x="985" y="366" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1608025471066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="985" y="366" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1608025471066" />
+    <state x="600" y="166" key="FileChooserDialogImpl" timestamp="1608025571720">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="600" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608025571720" />
+    <state width="746" height="252" key="GridCell.Tab.0.bottom" timestamp="1602158509165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602158509165" />
+    <state width="746" height="252" key="GridCell.Tab.0.center" timestamp="1602158509165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602158509165" />
+    <state width="746" height="252" key="GridCell.Tab.0.left" timestamp="1602158509165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602158509165" />
+    <state width="746" height="252" key="GridCell.Tab.0.right" timestamp="1602158509165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602158509165" />
+    <state width="746" height="252" key="GridCell.Tab.1.bottom" timestamp="1602158509165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602158509165" />
+    <state width="746" height="252" key="GridCell.Tab.1.center" timestamp="1602158509165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602158509165" />
+    <state width="746" height="252" key="GridCell.Tab.1.left" timestamp="1602158509165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602158509165" />
+    <state width="746" height="252" key="GridCell.Tab.1.right" timestamp="1602158509165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602158509165" />
+    <state x="428" y="73" key="SettingsEditor" timestamp="1608026100462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="428" y="73" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608026100462" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1600855606540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1600855606540" />
+    <state x="461" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1600858846559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1600858846559" />
+    <state x="178" y="28" key="new project wizard" timestamp="1607082279769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="28" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1607082279769" />
+    <state x="410" y="142" width="700" height="530" key="recent.locations.popup" timestamp="1600855613223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="142" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1600855613223" />
+    <state x="407" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602144653478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602144653478" />
+  </component>
+</project>
