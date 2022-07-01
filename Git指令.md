@@ -10,3 +10,6 @@
 
 
 ## 注：ssh方式可以不用登录，但需要ssh公钥
+
+//Git远端库连接  
+https://www.cnblogs.com/zeo-to-one/p/8367801.html
